@@ -23,7 +23,7 @@ mysql中新建数据库
 create database problem_judger;
 ```
 
-数据库迁移使用一下命令（根目录）：
+数据库迁移使用以下命令（根目录）：
 ```
 #python3
 python3 manage.py makemigrations
